@@ -99,4 +99,3 @@ var Toc = {
     else Toc.$container.hide();
   }
 }
-
